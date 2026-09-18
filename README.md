@@ -12,7 +12,7 @@ GeoJSON com as **43 Circunscrições Hidrográficas (CH)** oficiais de Minas Ger
 No ArcGIS Online ou ArcGIS Pro: **Add Data → From URL**, tipo **GeoJSON**, colar o link raw deste arquivo:
 
 ```
-https://raw.githubusercontent.com/fireprojectx/bacias-mg/main/circunscricoes_hidrograficas_mg.geojson
+https://raw.githubusercontent.com/fireprojectx/bacias-mg/master/circunscricoes_hidrograficas_mg.geojson
 ```
 
 ## Atualização
