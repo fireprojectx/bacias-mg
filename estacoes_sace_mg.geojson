@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.02611,
+          -19.76667
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "NE - Nova Era Telemétrica",
+        "cor_status": "#00FF33",
+        "cota_cm": 48,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:15",
+        "local": "Nova Era"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17278,
+          -19.93056
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "RP - Rio Piracicaba",
+        "cor_status": "#00FF33",
+        "cota_cm": 88,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Rio Piracicaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.63333,
+          -18.98056
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "TU - Tumiritinga",
+        "cor_status": "#00FF33",
+        "cota_cm": 98,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:00",
+        "local": "Tumiritinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.91806,
+          -18.575
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "VM - Vila Matias",
+        "cor_status": "#00FF33",
+        "cota_cm": null,
+        "situacao": "Normal",
+        "ultima_medicao": null,
+        "local": "Vila Matias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.64417,
+          -19.525
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "MC - Mário de Carvalho",
+        "cor_status": "#00FF33",
+        "cota_cm": 127,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:30",
+        "local": "Mário de Carvalho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4825,
+          -19.7875
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "CO - Cachoeira dos Óculos",
+        "cor_status": "#00FF33",
+        "cota_cm": 230,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:15",
+        "local": "Cachoeira do Óculos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.95083,
+          -18.88333
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "GV - Governador Valadares",
+        "cor_status": "#c4c4c4",
+        "cota_cm": null,
+        "situacao": "Sem Dados",
+        "ultima_medicao": null,
+        "local": "Governador Valadares"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.37083,
+          -19.32972
+        ]
+      },
+      "properties": {
+        "bacia": "doce",
+        "codigo_tooltip": "BO - Belo Oriente",
+        "cor_status": "#00FF33",
+        "cota_cm": 144,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:15",
+        "local": "Belo Oriente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.02389,
+          -20.73833
+        ]
+      },
+      "properties": {
+        "bacia": "muriae",
+        "codigo_tooltip": "CLA - 58930000 - CARANGOLA",
+        "cor_status": "#00FF33",
+        "cota_cm": 78,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:45",
+        "local": "Carangola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.21444,
+          -21.15056
+        ]
+      },
+      "properties": {
+        "bacia": "muriae",
+        "codigo_tooltip": "PMU - 58920000 - PATROCÍNIO DO MURIAÉ",
+        "cor_status": "#00FF33",
+        "cota_cm": 234,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:30",
+        "local": "Patrocínio do Muriaé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.79194,
+          -20.09194
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "RIA - Rio Acima",
+        "cor_status": "#00FF33",
+        "cota_cm": 158,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:45",
+        "local": "Rio Acima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.22583,
+          -18.30611
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "SHP - Santo Hipólito",
+        "cor_status": "#00FF33",
+        "cota_cm": 129,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:45",
+        "local": "Santo Hipólito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.80686,
+          -19.96327
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "RAP - Raposos",
+        "cor_status": "#00FF33",
+        "cota_cm": 139,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Raposos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.05034,
+          -18.64586
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "PRJU - Presidente Juscelino",
+        "cor_status": "#00FF33",
+        "cota_cm": null,
+        "situacao": "Normal",
+        "ultima_medicao": null,
+        "local": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.19282,
+          -18.67196
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "PTLI - Ponte do Licínio",
+        "cor_status": "#00FF33",
+        "cota_cm": 183,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Ponte do Licínio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.91111,
+          -19.55972
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "PRS - Ponte Raul Soares",
+        "cor_status": "#00FF33",
+        "cota_cm": 74,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Ponte Raul Soares"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.02073,
+          -19.23555
+        ]
+      },
+      "properties": {
+        "bacia": "velhas",
+        "codigo_tooltip": "JQBA - Jequitibá",
+        "cor_status": "#00FF33",
+        "cota_cm": 113,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Jequitibá"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.70164,
+          -21.39
+        ]
+      },
+      "properties": {
+        "bacia": "pomba",
+        "codigo_tooltip": "CTG - 58770000 - CATAGUASES",
+        "cor_status": "#00FF33",
+        "cota_cm": 171,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "responsive\" style=\"padding-left:10; padding-right:0;\">"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7994,
+          -21.4502
+        ]
+      },
+      "properties": {
+        "bacia": "pomba",
+        "codigo_tooltip": "MAU - 58765010 - USINA MAURÍCIO JUSANTE",
+        "cor_status": "#c4c4c4",
+        "cota_cm": null,
+        "situacao": "Sem Dados",
+        "ultima_medicao": null,
+        "local": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86185,
+          -21.3094
+        ]
+      },
+      "properties": {
+        "bacia": "pomba",
+        "codigo_tooltip": "ADT - 58735000 - ASTOLFO DUTRA",
+        "cor_status": "#00FF33",
+        "cota_cm": 144,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:45",
+        "local": "responsive\" style=\"padding-left:10; padding-right:0;\">"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.81975,
+          -21.29295
+        ]
+      },
+      "properties": {
+        "bacia": "pomba",
+        "codigo_tooltip": "XOP - 58736000 - BARRA DO XOPOTÓ",
+        "cor_status": "#00FF33",
+        "cota_cm": 135,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:45",
+        "local": "responsive\" style=\"padding-left:10; padding-right:0;\">"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.05009,
+          -21.35621
+        ]
+      },
+      "properties": {
+        "bacia": "pomba",
+        "codigo_tooltip": "GUA - 58730001 - GUARANI",
+        "cor_status": "#00FF33",
+        "cota_cm": null,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:45",
+        "local": "Guarani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.94333,
+          -17.36916
+        ]
+      },
+      "properties": {
+        "bacia": "saofrancisco",
+        "codigo_tooltip": "PI - Pirapora-41135000",
+        "cor_status": "#00FF33",
+        "cota_cm": 218,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Pirapora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5469,
+          -15.7022
+        ]
+      },
+      "properties": {
+        "bacia": "saofrancisco",
+        "codigo_tooltip": "PM - Pedras de Maria da Cruz-44290002",
+        "cor_status": "#00FF33",
+        "cota_cm": 233,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:45",
+        "local": "Pedras de Maria da Cruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71475,
+          -17.59388
+        ]
+      },
+      "properties": {
+        "bacia": "saofrancisco",
+        "codigo_tooltip": "VP - Várzea da Palma-41990000",
+        "cor_status": "#00FF33",
+        "cota_cm": 147,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 12:00",
+        "local": "Várzea da Palma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0664,
+          -16.37178
+        ]
+      },
+      "properties": {
+        "bacia": "saofrancisco",
+        "codigo_tooltip": "SR - São Romão-43200000",
+        "cor_status": "#00FF33",
+        "cota_cm": 259,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:00",
+        "local": "São Romão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9322,
+          -14.7572
+        ]
+      },
+      "properties": {
+        "bacia": "saofrancisco",
+        "codigo_tooltip": "MG - Manga-44500000",
+        "cor_status": "#00FF33",
+        "cota_cm": null,
+        "situacao": "Normal",
+        "ultima_medicao": null,
+        "local": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.08106,
+          -16.65745
+        ]
+      },
+      "properties": {
+        "bacia": "saofrancisco",
+        "codigo_tooltip": "CM - Cachoeira da Manteiga-42210000",
+        "cor_status": "#00FF33",
+        "cota_cm": 261,
+        "situacao": "Normal",
+        "ultima_medicao": "18/09/2026 11:30",
+        "local": "Cachoeira da Manteiga"
+      }
+    }
+  ]
+}
